@@ -16,7 +16,7 @@
     // Override point for customization after application launch.
     
     // Put your APIKey
-    NSString *APIKey = @"20af1dd2-93af-869f-446c-0675f8694095";
+    NSString *APIKey = @"56d253bb-adef-4cac-bbbb-2a264cecbcc8";
     [YO startWithAPIKey:APIKey];
     
     return YES;
