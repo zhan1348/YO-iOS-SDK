@@ -24,7 +24,7 @@
 - (IBAction)sendYOAction:(id)sender
 {
     // Send A Yo To All Subscribers
-    // [YO sendYO];
+    [YO sendYO];
     
     // Yo Individual Usernames
     [YO sendYOToIndividualUser:@"YQ123456"];
